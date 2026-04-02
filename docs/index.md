@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# 前言
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本人是一个不知天高地厚大一微电子学生，受csdiy启发和帮助很大，遂打算在微电子领域也竖起一个自学指南。
 
-## Commands
+大一确实还什么都不会，很多微电子的领域都没有涉及到。因此这个自学指南将会随着我的成长进步逐渐更新，也算是自己成长进步的记录。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+本人才疏学浅，若有疏漏错误，欢迎指正。
