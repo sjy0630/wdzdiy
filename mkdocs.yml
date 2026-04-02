@@ -3,3 +3,14 @@ site_url: https://wdzdiy.wiki
 theme:
   name: material
   language: zh
+
+nav:
+  - 首页: index.md
+  - 数学基础:
+    - 高等数学: math/calculus.md
+    - 线性代数: math/linear_algebra.md
+  - 物理基础:
+    - 大学物理: physics/general_physics.md
+  - 编程入门:
+    - C/C++指南: cs/c_cpp.md
+    - 实用工具教程: cs/tools.md
