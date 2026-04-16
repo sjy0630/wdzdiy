@@ -1,8 +1,44 @@
 site_name: 微电子自学指南
 site_url: https://wdzdiy.wiki
 theme:
-  name: material
-  language: zh
+  name: material        # 启用 Material 主题
+  language: zh  
+  custom_dir: overrides        # 将界面语言设置为中文（例如搜索框的提示语）
+  features:             # 开启 Material 主题的各种高级特性
+    - navigation.tabs   # 开启顶部一级导航栏
+    - navigation.top    # 开启“返回顶部”按钮
+    - search.suggest    # 开启搜索建议
+  palette:              # 设置网站的主题色
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo   # 亮色模式下的主色调
+      toggle:
+        icon: material/brightness-7
+        name: 切换到暗色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo   # 暗色模式下的主色调
+      toggle:
+        icon: material/brightness-4
+        name: 切换到亮色模式
+
+markdown_extensions:
+  - toc:
+      permalink: true    # 在标题旁边显示一个锚点链接图标
+  - admonition           # 支持提示框（如 Note, Warning 等）
+  - pymdownx.highlight:  # 增强的代码高亮
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences # 支持在代码块中嵌套其他元素
+  - pymdownx.arithmatex: # 支持 LaTeX 数学公式渲染（非常推荐配置）
+      generic: true
+
+
+plugins:
+  - search               # 开启全站搜索功能
 
 nav:
   - 首页: index.md
