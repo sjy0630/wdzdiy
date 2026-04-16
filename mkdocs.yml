@@ -48,5 +48,7 @@ nav:
   - 物理基础:
     - 大学物理: physics/general_physics.md
   - 编程入门:
-    - C/C++指南: cs/c_cpp.md
+    - 编程语言:
+      - C/C++: cs/c_cpp.md
+      - Python: cs/python.md
     - 实用工具教程: cs/tools.md
