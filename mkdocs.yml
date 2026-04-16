@@ -5,7 +5,6 @@ theme:
   language: zh  
   custom_dir: overrides        # 将界面语言设置为中文（例如搜索框的提示语）
   features:             # 开启 Material 主题的各种高级特性
-    - navigation.tabs   # 开启顶部一级导航栏
     - navigation.top    # 开启“返回顶部”按钮
     - search.suggest    # 开启搜索建议
   palette:              # 设置网站的主题色
