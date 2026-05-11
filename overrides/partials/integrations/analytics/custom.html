@@ -1,0 +1,43 @@
+{#
+  站内统计脚本 (三选一启用)
+
+  方案 A  Umami    : 自托管 / 云端皆可，开源、隐私友好
+  方案 B  Plausible: 闭源但隐私友好，付费 (有 30 天试用)
+  方案 C  百度统计 : 国内访问稳定，免费，国内用户最常用
+
+  使用方法：把对应方案的 Jinja2 注释包裹去掉，并填入自己的 ID。
+#}
+
+
+{# ===== 方案 A: Umami ===== #}
+{# 替换 data-website-id 为你 Umami 后台 Websites 里的 ID         #}
+{# src 默认指向 Umami 官方云服务，自托管请改成你自己的域名        #}
+{#
+<script defer
+        src="https://cloud.umami.is/script.js"
+        data-website-id="YOUR-UMAMI-WEBSITE-ID"></script>
+#}
+
+
+{# ===== 方案 B: Plausible ===== #}
+{# data-domain 写你部署的域名 (不带 https://)                    #}
+{#
+<script defer
+        data-domain="wdzdiy.wiki"
+        src="https://plausible.io/js/script.js"></script>
+#}
+
+
+{# ===== 方案 C: 百度统计 ===== #}
+{# 替换 hm.js?XXXXX 后面的字符串为你站长平台获取的 hm code        #}
+{#
+<script>
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?YOUR-BAIDU-HM-CODE";
+    var s  = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+  })();
+</script>
+#}

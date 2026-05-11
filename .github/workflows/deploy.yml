@@ -2,7 +2,7 @@ name: Deploy MkDocs
 on:
   push:
     branches:
-      - main  # 如果你的默认分支叫 master，请把这里改成 master
+      - main
 permissions:
   contents: write
 jobs:
@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # git-revision-date-localized 需要完整 git 历史
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin
       - run: mkdocs gh-deploy --force
