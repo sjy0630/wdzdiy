@@ -2,26 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wdzdiy.wiki/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <lastmod>2026-05-11</lastmod>
     </url>
     <url>
-         <loc>https://wdzdiy.wiki/cs/c_cpp.md/python/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <loc>https://wdzdiy.wiki/about/contributing/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/about/links/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/analog_ic/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/analog_ic/analog_ic_design/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/analog_ic/cadence/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/career/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/career/english/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/career/intern/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/career/literature/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/circuit/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/circuit/analog_electronics/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/circuit/circuit_analysis/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/circuit/digital_electronics/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/circuit/signals_systems/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/cs/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/cs/c_cpp/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/cs/python/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/computer_organization/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/design_flow/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/fpga/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/verification/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/digital_ic/verilog/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/math/</loc>
+         <lastmod>2026-05-11</lastmod>
     </url>
     <url>
          <loc>https://wdzdiy.wiki/math/calculus/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/math/complex_analysis/</loc>
+         <lastmod>2026-05-11</lastmod>
     </url>
     <url>
          <loc>https://wdzdiy.wiki/math/linear_algebra/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <lastmod>2026-05-11</lastmod>
     </url>
     <url>
          <loc>https://wdzdiy.wiki/math/probability/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/physics/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/physics/electromagnetism/</loc>
+         <lastmod>2026-05-11</lastmod>
     </url>
     <url>
          <loc>https://wdzdiy.wiki/physics/general_physics/</loc>
-         <lastmod>2026-04-16</lastmod>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/physics/quantum_mechanics/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/semiconductor/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/semiconductor/ic_process/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/semiconductor/semi_devices/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/semiconductor/semi_physics/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/git/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/latex/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/linux/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/scripting/</loc>
+         <lastmod>2026-05-11</lastmod>
+    </url>
+    <url>
+         <loc>https://wdzdiy.wiki/tools/vim/</loc>
+         <lastmod>2026-05-11</lastmod>
     </url>
 </urlset>
